@@ -8,9 +8,7 @@ opencode.json
 .idea/
 
 # Development artifacts
-api-discovery-results.md
 solution.yaml.bak
-coverage.json
 
 # Python
 __pycache__/
