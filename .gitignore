@@ -12,9 +12,6 @@ api-discovery-results.md
 solution.yaml.bak
 coverage.json
 
-# Specification (design-time only, not needed at runtime)
-specification/
-
 # Python
 __pycache__/
 *.py[cod]
